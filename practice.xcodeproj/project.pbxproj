@@ -22,6 +22,8 @@
 		BFEF33CD1D47162900FFC3E4 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = BFEF33C51D47162900FFC3E4 /* 6.png */; };
 		BFEF33CE1D47162900FFC3E4 /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = BFEF33C61D47162900FFC3E4 /* 7.png */; };
 		BFEF33CF1D47162900FFC3E4 /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = BFEF33C71D47162900FFC3E4 /* 8.png */; };
+		BFEF33D21D47325000FFC3E4 /* 11.png in Resources */ = {isa = PBXBuildFile; fileRef = BFEF33D01D47325000FFC3E4 /* 11.png */; };
+		BFEF33D31D47325000FFC3E4 /* 12.png in Resources */ = {isa = PBXBuildFile; fileRef = BFEF33D11D47325000FFC3E4 /* 12.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +58,8 @@
 		BFEF33C51D47162900FFC3E4 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 6.png; path = ../../../../.Trash/6.png; sourceTree = "<group>"; };
 		BFEF33C61D47162900FFC3E4 /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 7.png; path = ../../../../.Trash/7.png; sourceTree = "<group>"; };
 		BFEF33C71D47162900FFC3E4 /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 8.png; path = ../../../../.Trash/8.png; sourceTree = "<group>"; };
+		BFEF33D01D47325000FFC3E4 /* 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 11.png; path = ../../../11.png; sourceTree = "<group>"; };
+		BFEF33D11D47325000FFC3E4 /* 12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 12.png; path = ../../../12.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +135,8 @@
 		BFEF33BF1D4715F800FFC3E4 /* image */ = {
 			isa = PBXGroup;
 			children = (
+				BFEF33D01D47325000FFC3E4 /* 11.png */,
+				BFEF33D11D47325000FFC3E4 /* 12.png */,
 				BFEF33C01D47162900FFC3E4 /* 1.png */,
 				BFEF33C11D47162900FFC3E4 /* 2.png */,
 				BFEF33C21D47162900FFC3E4 /* 3.png */,
@@ -231,7 +237,9 @@
 				BFEF33CA1D47162900FFC3E4 /* 3.png in Resources */,
 				BFEF33CE1D47162900FFC3E4 /* 7.png in Resources */,
 				BFEF33C81D47162900FFC3E4 /* 1.png in Resources */,
+				BFEF33D31D47325000FFC3E4 /* 12.png in Resources */,
 				BFEF33CC1D47162900FFC3E4 /* 5.png in Resources */,
+				BFEF33D21D47325000FFC3E4 /* 11.png in Resources */,
 				BF1EA8971D463F460043A5DF /* Assets.xcassets in Resources */,
 				BF1EA8951D463F460043A5DF /* Main.storyboard in Resources */,
 			);
